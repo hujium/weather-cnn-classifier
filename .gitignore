@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pth
+*.pt
+model/weather_cnn.pth
+logs/
+fonts/test_*.png
+dataset/
