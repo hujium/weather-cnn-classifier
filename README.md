@@ -1,11 +1,11 @@
 # 🌤️ 天气图像分类系统
 
-[![GitHub](https://img.shields.io/badge/GitHub-hujium%2Fweather--CNN-blue?logo=github)](https://github.com/hujium/weather-cnn)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/hujium/weather-cnn/blob/main/LICENSE)
+[![GitHub](https://img.shields.io/badge/GitHub-hujium%2Fweather--CNN-blue?logo=github)](https://github.com/hujium/weather-cnn-classifier)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/hujium/weather-cnn-classifier/blob/main/LICENSE)
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8+-yellow.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)](https://pytorch.org/)
 
-**GitHub 项目地址:** https://github.com/hujium/weather-cnn
+**GitHub 项目地址:** https://github.com/hujium/weather-cnn-classifier
 
 基于 PyTorch 卷积神经网络（CNN）的天气图像自动分类系统，支持识别6种天气类型。
 

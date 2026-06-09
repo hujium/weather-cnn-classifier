@@ -1,7 +1,7 @@
 天气图像分类系统
 ==================
 
-GitHub 项目地址: https://github.com/hujium/weather-cnn
+GitHub 项目地址: https://github.com/hujium/weather-cnn-classifier
 开源协议: MIT License
 
 基于 PyTorch 卷积神经网络（CNN）的天气图像自动分类系统，支持识别6种天气类型。
@@ -294,4 +294,4 @@ CNN 网络架构：
 
 本项目采用 MIT License 开源协议。
 详情请查看 LICENSE 文件。
-GitHub 地址: https://github.com/hujium/weather-cnn
+GitHub 地址: https://github.com/hujium/weather-cnn-classifier
